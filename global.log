@@ -1,0 +1,5 @@
+[2018-11-19 14:11:39,890] p17724 {server.py:66} INFO - Logging is set up.
+[2018-11-19 14:11:40,118] p17724 {C:\Users\MinhNguyen\AppData\Local\Continuum\anaconda3\lib\site-packages\werkzeug\_internal.py:88} INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2018-11-19 14:12:03,917] p17724 {C:\Users\MinhNguyen\AppData\Local\Continuum\anaconda3\lib\site-packages\werkzeug\_internal.py:88} INFO - 127.0.0.1 - - [19/Nov/2018 14:12:03] "[1m[31mGET / HTTP/1.1[0m" 400 -
+[2018-11-19 14:12:10,105] p17724 {server.py:48} INFO - {'input': {'id': '2228'}, 'output': [[11999, '0.99'], [11827, '0.99'], [994, '0.99'], [11767, '0.99'], [998, '0.98'], [12186, '0.98'], [11564, '0.98'], [11764, '0.98'], [18298, '0.98'], [11179, '0.98'], [12308, '0.98'], [15147, '0.98'], [11130, '0.98'], [11449, '0.98'], [1671, '0.98'], [35202, '0.98'], [11743, '0.98'], [11736, '0.98'], [11777, '0.98']]}
+[2018-11-19 14:12:10,106] p17724 {C:\Users\MinhNguyen\AppData\Local\Continuum\anaconda3\lib\site-packages\werkzeug\_internal.py:88} INFO - 127.0.0.1 - - [19/Nov/2018 14:12:10] "[37mGET /recommend?content_id=2228 HTTP/1.1[0m" 200 -
